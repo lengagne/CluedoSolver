@@ -1,0 +1,21 @@
+Robin dispose de Bart, du gant de boxe, du bowling, de la centrale nucléaire, du restaurant, du supermarché)
+Chloé suspecte Lisa avec le saxophone dans le studio : Robin non, Romuald oui.
+Romuald suspecte Krusty avec le collier dans la centrale nucléaire : Chloé oui.
+Chloé suspecte Lisa avec le collier dans le bowling de Barney : Chloé oui.
+Robin suspecte Krusty avec le donut dans le manoir de Burns : Romuald non, Chloé montre le manoir.
+Romuald suspecte Homer avec le gant de boxe dans la centrale nucléaire : Chloé non, Robin oui.
+Chloé suspecte Smithers avec le donut dans les studios de Krusty : Robin non, Romuald non
+Robin suspecte Lisa avec le donut dans le donjon de l'android : Romuald oui
+Romuald suspecte Homer avec le collier dans le supermarché : Chloé oui
+Chloé suspecte Smithers avec le saxophone dans le supermarché : Robin oui (supermarché)
+Robin suspecte Homer avec le donut dans le manoir : Romuald non, Chloé oui (manoir)
+Romuald suspecte Homer avec le saxophone dans le donjon : Chloé oui
+Chloé suspecte Marge avec le donut dans la centrale nucléaire : Robin oui
+Robin syspecte Smithers avec le lance-pierre dans le restaurant : Romuald oui (Lance-Pierre)
+Romuald accuse Lisa avec le donut dans le supermarché : Faux
+Romuald montre donjon, studio, maison, Homer, lance-pierre, barre de plutonium
+Chloé suspecte Lisa avec le donut dans le bowling : Robin oui
+Robin suspecte Krusty avec le donut dans la maison : Chloé non
+Chloé suspecte Lisa avec le lance-pierre dans les studios : Robin non
+Chloé suspecte Lisa avec le collier dans le bowling : Robin oui (bowling)
+Robin accuse Krusty avec le donut dans la maison de retraite.
